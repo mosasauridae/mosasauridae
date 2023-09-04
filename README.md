@@ -1,4 +1,4 @@
-Software developer, mostly C++ but some professional experience in C#, Java, Javascript, and Python.
+Software developer, mostly C++ but some experience in C#, Java, Javascript, and Python.
 
 <!---
 mosasauridae/mosasauridae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
